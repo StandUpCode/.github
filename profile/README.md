@@ -1,7 +1,6 @@
 ## Hi there we are StandUpCode
 
-StandUpCode was founded in 2018 to be a tech community in for Thai developer
-
+StandUpCode was established in 2018 as a tech community  
 2022 StandUpCode transfromed to a software development company
 
 ### Our Services
