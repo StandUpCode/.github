@@ -1,7 +1,10 @@
 ## Hi there we are StandUpCode
 
-StandUpCode was established in 2018 as a tech community  
-2022 StandUpCode transfromed to a software development company
+StandUpCode was founded in 2018 with the aim of fostering a community of technology enthusiasts and professionals. Over the years, the community grew and established itself as a hub for learning and sharing knowledge about the latest advancements in technology.
+
+However, in 2022, the founders of StandUpCode decided to take the next step and transformed the organization into a full-fledged software development company. This allowed them to offer their expertise and services to businesses and organizations looking to stay ahead in the fast-paced world of technology. The company now focuses on providing custom software development services to clients, helping them build innovative solutions that meet their unique needs.
+
+With its roots in the tech community and years of experience in software development, StandUpCode is well-positioned to offer its clients the best of both worlds. The company's commitment to staying at the forefront of technology, combined with its passion for helping others succeed, has made it a trusted partner for organizations looking to drive their businesses forward.
 
 ### Our Services
 
